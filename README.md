@@ -34,4 +34,26 @@ This pack contains **5 non-ELS SWAT vehicles**, fully optimized and tested for F
 2. Drag and drop the vehicle folders into your server’s `resources` folder
 3. Add the vehicles to your `server.cfg`:
    ```cfg
-   ensure swat
+      ensure swat
+   ````
+
+4. Restart your server and enjoy!
+
+
+## 📢 Join the Community
+
+Need support or want more high-quality FiveM content?
+
+🟢 **Join our Discord:** [NeoFive Community](https://discord.gg/B9AXxWQUd5)
+
+
+
+## 🛑 Terms of Use
+
+* Do not re-upload or redistribute outside our Discord.
+* Do not claim the models as your own.
+* All rights reserved to original creators where applicable.
+
+
+
+**Made with ❤️ for the FiveM community.**
