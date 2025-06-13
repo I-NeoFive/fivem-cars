@@ -24,11 +24,11 @@ This pack contains **5 non-ELS SWAT vehicles**, fully optimized and tested for F
 
 ## 📸 Screenshots
 
-> ![SWAT 1](images/swat1.png)
-> ![SWAT 2](images/swat2.png)
-> ![SWAT 3](images/swat3.png)
-> ![SWAT 4](images/swat4.png)
-> ![SWAT 5](images/swat5.png)
+![SWAT 1](images/Swat1.jpg)
+![SWAT 2](images/Swat2.jpg)
+![SWAT 3](images/Swat3.jpg)
+![SWAT 4](images/Swat4.jpg)
+![SWAT 5](images/Swat5.jpg)
 
 
 ---
